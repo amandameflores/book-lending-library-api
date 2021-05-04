@@ -1,4 +1,4 @@
-# empresta-livro-api
+# book-lending-library-api
 Workshop "From Basics to API" - [Devs Java Girl Brazil] [PART 2]
 
 # TASK 
