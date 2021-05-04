@@ -47,6 +47,8 @@ O sistema trata-se de uma biblioteca comunitária que faz empréstimos de livros
 Os livros físicos são organizados, por autor e em ordem alfabética, para facilitar a localização do livro físico, 
 o sistema deverá ter esse mapeamento.
 
+Obs: Será necessário utilizar o Postman e o H2 Console (Banco de dados em memória)
+
  
 
 ### Cadastro de usuário: 	
