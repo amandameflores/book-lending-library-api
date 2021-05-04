@@ -1,5 +1,5 @@
 # empresta-livro-api
-Workshop "From Basics to API" - [Devs Java Girl Brazil]
+Workshop "From Basics to API" - [Devs Java Girl Brazil] [PART 2]
 
 # TASK 
 
